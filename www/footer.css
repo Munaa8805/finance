@@ -1,0 +1,16 @@
+footer {
+  display: flex;
+  max-width: 1200px;
+  background-color: green;
+  margin: 0 auto;
+}
+.first_content {
+  background-color: red;
+  width: 50%;
+  text-align: center;
+}
+.second_content{
+    display: flex;
+    width: 100%;
+
+}

@@ -1,0 +1,31 @@
+[Tue Jan 21 20:36:21.455468 2025] [authz_core:error] [pid 2256:tid 1928] [client ::1:53964] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:36:21.661762 2025] [authz_core:error] [pid 2256:tid 1928] [client ::1:53964] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://localhost/
+[Tue Jan 21 20:37:37.764184 2025] [authz_core:error] [pid 14888:tid 1944] [client 127.0.0.1:54121] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:37:37.800929 2025] [authz_core:error] [pid 14888:tid 1944] [client 127.0.0.1:54121] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://127.0.0.1/
+[Tue Jan 21 20:47:36.307455 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54447] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:47:36.396309 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54447] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:47:51.178603 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:47:51.203422 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:47:53.496426 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:47:53.523372 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:47:54.277704 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:47:54.303258 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:47:54.473432 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:47:54.493473 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:47:54.694074 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:47:54.716701 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54457] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:49:58.868556 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:49:58.894193 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:49:59.663595 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:49:59.683498 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:49:59.863716 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:49:59.887076 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:50:00.069655 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:50:00.091114 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:50:00.294488 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:50:00.318135 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Tue Jan 21 20:50:03.042875 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/
+[Tue Jan 21 20:50:03.063851 2025] [authz_core:error] [pid 4868:tid 1916] [client ::1:54477] AH01630: client denied by server configuration: A:/finance/favicon.ico, referer: http://balance.me/
+[Wed Jan 22 08:43:24.906267 2025] [php:warn] [pid 3800:tid 1936] [client ::1:64303] PHP Warning:  Undefined variable $home_page in A:\\finance\\www\\index.php on line 7, referer: http://balance.me/
+[Wed Jan 22 08:45:55.485389 2025] [php:warn] [pid 3800:tid 1936] [client ::1:49922] PHP Warning:  Undefined variable $home_page in A:\\finance\\www\\index.php on line 7, referer: http://balance.me/
+[Wed Jan 22 08:46:01.220061 2025] [php:warn] [pid 3800:tid 1936] [client ::1:49939] PHP Warning:  Undefined variable $home_page in A:\\finance\\www\\index.php on line 7, referer: http://balance.me/
