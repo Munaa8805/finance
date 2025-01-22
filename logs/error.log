@@ -29,3 +29,4 @@
 [Wed Jan 22 08:43:24.906267 2025] [php:warn] [pid 3800:tid 1936] [client ::1:64303] PHP Warning:  Undefined variable $home_page in A:\\finance\\www\\index.php on line 7, referer: http://balance.me/
 [Wed Jan 22 08:45:55.485389 2025] [php:warn] [pid 3800:tid 1936] [client ::1:49922] PHP Warning:  Undefined variable $home_page in A:\\finance\\www\\index.php on line 7, referer: http://balance.me/
 [Wed Jan 22 08:46:01.220061 2025] [php:warn] [pid 3800:tid 1936] [client ::1:49939] PHP Warning:  Undefined variable $home_page in A:\\finance\\www\\index.php on line 7, referer: http://balance.me/
+[Wed Jan 22 12:52:55.881588 2025] [php:error] [pid 2612:tid 1940] [client ::1:63377] PHP Parse error:  syntax error, unexpected token "}" in A:\\finance\\www\\my_variables.php on line 5, referer: http://balance.me/
