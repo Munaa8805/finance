@@ -1,8 +1,10 @@
-<?php require "my_variables.php"; ?>
+<!-- <?php require "mysqli.php"; ?> -->
+<?php require "stmt.php"; ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
-<meta http-equiv="refresh" content="1">
+<!-- <meta http-equiv="refresh" content="1"> -->
 
 <head>
     <title>Nice Finance</title>
