@@ -1,6 +1,9 @@
 <?php
-
-@$con = mysqli_connect("127.0.0.1", "root", "", "finance");
+$servername = "localhost"; // Replace with your server name
+$username = "root"; // Replace with your database username
+$password = ""; // Replace with your database password
+$dbname = "finance"; // Replace with your database name
+@$con = mysqli_connect($servername, $username, $password, $dbname);
 if (mysqli_connect_errno()) {
     echo "Failed to connect to MySQL: " . mysqli_connect_error();
     exit();

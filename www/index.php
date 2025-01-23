@@ -1,28 +1,23 @@
-<!-- <?php require "mysqli.php"; ?> -->
-<?php require "stmt.php"; ?>
+<?php
+ini_set('display_errors', 1);
+define("ROOT", dirname(dirname(__FILE__)));
+
+require ROOT . "/components/title.php";
+// require ROOT."/pages/user/home.php";
+require ROOT . "/components/header.php";
+
+$page =@$_SERVER["REDIRECT_URL"];
+if(empty($page)){
+    require ROOT . "/pages/home.php";
+}else {
+    $script = ROOT . "/pages$page.php";
+    if(file_exists($script)){
+        require $script;}
+        else {
+            require ROOT . "/pages/404.php";
+        }
+}
 
 
-<!DOCTYPE html>
-<html lang="en">
-<!-- <meta http-equiv="refresh" content="1"> -->
 
-<head>
-    <title>Nice Finance</title>
-</head>
-<link rel="stylesheet" type="text/css" href="footer.css">
-
-<body>
-
-    <?php include("./header.php"); ?>
-    <main>
-        <p>Foratate reading
-            Hi world
-
-        </p>
-    </main>
-
-    <?php include("./footer.php"); ?>
-
-</body>
-
-</html>
+require ROOT . "/components/footer.php";

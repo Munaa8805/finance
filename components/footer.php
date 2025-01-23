@@ -2,7 +2,7 @@
     <div class="first_content">
         <ul>
             <li>
-                <a href="/">Home</a>
+                <a href="/">Footer Home</a>
             </li>
             <li>
                 <a href="/contact">Contact</a>
@@ -28,3 +28,6 @@
         </ul>
     </div>
 </footer>
+</body>
+
+</html>
