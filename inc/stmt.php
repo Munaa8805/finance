@@ -11,7 +11,7 @@ if (mysqli_connect_errno()) {
     echo "Connected to MySQL";
 }
 
-echo "<br>";    
+
 $sql = "SELECT * FROM users where id>=?";
 
 $stmt = mysqli_prepare($con, $sql);
